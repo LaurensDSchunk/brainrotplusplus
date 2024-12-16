@@ -1,6 +1,7 @@
 # brainrotplusplus (Those who know)
 
-A C++ alias file that makes everything brainrot
+A C++ alias file that makes everything brainrot. Inspired by the Brainrot programming language.
+https://github.com/araujo88/brainrot
 
 ## Use
 
