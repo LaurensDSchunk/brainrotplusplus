@@ -20,7 +20,3 @@ bussin 0;
 ## Contributing
 
 Make a PR or an issue and if I have time, I'll get to it.
-
-```
-
-```
